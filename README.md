@@ -1,2 +1,2 @@
 # Schemify
-It is a chatbot for Citizen Scholarship
+It is a chatbot to find  Citizen Scholarship 
